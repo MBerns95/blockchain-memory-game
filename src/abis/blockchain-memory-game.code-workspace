@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "blockchain-memory-game",
+			"path": "../../../../Documents/GitHub/blockchain-memory-game"
+		},
+		{
+			"name": "src",
+			"path": ".."
+		},
+		{
+			"name": "public",
+			"path": "../../public"
+		},
+		{
+			"name": "test",
+			"path": "../../test"
+		}
+	],
+	"settings": {}
+}
